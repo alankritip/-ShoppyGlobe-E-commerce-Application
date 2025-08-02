@@ -42,7 +42,7 @@ A modern React-based e-commerce application to browse, search, and shop a curate
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/shoppyglobe
+git clone https://github.com/alankritip/-ShoppyGlobe-E-commerce-Application
 cd shoppyglobe
 ```
 #### Install dependencies:
